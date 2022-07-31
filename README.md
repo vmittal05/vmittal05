@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vaibhav Mittal and I am currently working as a Senior Systems Engineer at Infosys in Bengaluru. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br>
+I am Vaibhav Mittal and I am currently working as a Senior Systems Engineer at Infosys in Bengaluru. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
 * 📃Resume: [Link to Resume](https://docs.google.com/document/d/1JUEnt-Szx2jlcEC1X8kuAdnkyb9QZNlkeCwzR1VjKmQ/edit?usp=sharing)
 * 📫 How to reach me: Email | [Linkedin](https://in.linkedin.com/in/vmittal97)
 
@@ -17,3 +17,18 @@ I am Vaibhav Mittal and I am currently working as a Senior Systems Engineer at I
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=success)
+
+<br/>
+<a href="https://github.com/vmittal05">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmittal05&langs_count=7&layout=compact&exclude_repo=Python_Algo&hide=html,xslt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<br/>
+<br clear="left"/>
+
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/vmittal05">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vmittal05&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
