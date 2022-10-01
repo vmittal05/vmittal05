@@ -3,6 +3,9 @@ I am Vaibhav Mittal and I am currently working as a Senior Systems Engineer at I
 * 📃Resume: [Link to Resume](https://docs.google.com/document/d/1JUEnt-Szx2jlcEC1X8kuAdnkyb9QZNlkeCwzR1VjKmQ/edit?usp=sharing)
 * 📫 How to reach me: Email | [Linkedin](https://in.linkedin.com/in/vmittal97)
 
+[![@vmittal05's Holopin board](https://holopin.io/api/user/board?user=vmittal05)](https://holopin.io/@vmittal05)
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=inactive)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
