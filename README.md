@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vaibhav Mittal and I am currently working as a Senior Systems Engineer at Infosys in Bengaluru. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
+I am Vaibhav Mittal and I am currently working as a Software Developer in India. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
 * 📃Resume: [Link to Resume](https://docs.google.com/document/d/1JUEnt-Szx2jlcEC1X8kuAdnkyb9QZNlkeCwzR1VjKmQ/edit?usp=sharing)
 * 📫 How to reach me: Email | [Linkedin](https://in.linkedin.com/in/vmittal97)
 
