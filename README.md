@@ -20,6 +20,7 @@ I am Vaibhav Mittal and I am currently working as a Software Developer in India.
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=success)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
 
 <br/>
 <a href="https://github.com/vmittal05">
