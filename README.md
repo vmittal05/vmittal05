@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://github.com/vmittal05/vmittal05/blob/main/wave.gif" width="25px">
 I am Vaibhav Mittal and I am currently working as a Software Developer in India. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
-* 📫 How to reach me: [Email](mailto:vaibhavmittal0506@gmail.com?subject=[GitHub])
+* 📫 How to reach me: [Email](mailto:vaibhavmittal0506@gmail.com?subject=[GitHub]) | [Linkedin](https://in.linkedin.com/in/vmittal97)
 
 [![@vmittal05's Holopin board](https://holopin.io/api/user/board?user=vmittal05)](https://holopin.io/@vmittal05)
 
