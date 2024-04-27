@@ -1,6 +1,7 @@
 ### Hi there  <img src="https://github.com/vmittal05/vmittal05/blob/main/wave.gif" width="25px">
 I am Vaibhav Mittal and I am currently working as a Software Developer in India. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
 * 📫 How to reach me: [Email](mailto:vaibhavmittal0506@gmail.com?subject=[GitHub]) | [Linkedin](https://in.linkedin.com/in/vmittal97)
+* 🌱 I’m currently learning: GCP & GenAI
 
 [![@vmittal05's Holopin board](https://holopin.io/api/user/board?user=vmittal05)](https://holopin.io/@vmittal05)
 
@@ -8,6 +9,7 @@ I am Vaibhav Mittal and I am currently working as a Software Developer in India.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=inactive)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange)
@@ -23,6 +25,7 @@ I am Vaibhav Mittal and I am currently working as a Software Developer in India.
 ![](https://img.shields.io/badge/hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 <br/>
 <a href="https://github.com/vmittal05">
