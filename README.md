@@ -1,5 +1,5 @@
 ### Hi there  <img src="https://github.com/vmittal05/vmittal05/blob/main/wave.gif" width="25px">
-I am [Vaibhav Mittal](https://vaibhav-mittal-cv.netlify.app/) and I am currently working as a Software Developer in India. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
+I am Vaibhav Mittal and I am currently working as a Software Developer in India. Besides Full-Stack development I enjoy working with technologies like Blockchain and Machine Learning.<br/>
 <!---* 📃 Resume: [Click here](https://vaibhav-mittal-cv.netlify.app/) --->
 * 📫 How to reach me: [Email](mailto:vaibhavmittal0506@gmail.com?subject=[GitHub]) | [Linkedin](https://in.linkedin.com/in/vmittal97)
 * 🌱 I’m currently learning: GCP & GenAI
